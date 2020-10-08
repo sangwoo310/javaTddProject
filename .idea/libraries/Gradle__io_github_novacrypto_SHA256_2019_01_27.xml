@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.novacrypto:SHA256:2019.01.27">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.novacrypto/SHA256/2019.01.27/75f67457e7cb17518b171ecca76cda68f8f55325/SHA256-2019.01.27.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.novacrypto/SHA256/2019.01.27/8dab02ee5924acd3705ac13bdab38b47f6209555/SHA256-2019.01.27-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
