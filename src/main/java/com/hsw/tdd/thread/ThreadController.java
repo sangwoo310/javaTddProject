@@ -32,7 +32,7 @@ public class ThreadController {
 
         // thread 결과에 대한 저장소 => thread blocking 을 위한 arrayList 처리
         List<CompletableFuture<Void>> threadResult = new ArrayList<>();
-        for (int i=0; i<60; i++) {
+        for (int i = 0; i < 60; i++) {
 
             // Executor 프레임워크의 Thread Pool Queue 사이즈 오버 방지
             while (true) {

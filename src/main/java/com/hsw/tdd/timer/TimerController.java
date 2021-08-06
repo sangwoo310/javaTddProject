@@ -12,7 +12,7 @@ public class TimerController implements Runnable {
     @Override
     public void run() {
         Timer timer = new Timer();
-        timer.scheduleAtFixedRate(new AddressGeneratorDaemon(), (long) 0, (long)1);
+        timer.scheduleAtFixedRate(new AddressGeneratorDaemon(), (long) 0, (long) 1);
 
     }
 

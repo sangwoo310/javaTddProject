@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "req_type": "addr-gen-req",
+  "req_id": "bithumb-addr-0001",
+  "service_group_id": "0001",
+  "mainnet_id": "C0102"
+  "coin_id": "C0105",
+  "address_req": {
+    "addr_type": "P2SH",
+    "addr_count": 100
+  },
+  "addresses": [
+    {
+      "address": "0x123df1231",
+      "public_key": "032a98a"
+    }
+  ],
+  "signature": {
+    "0001": "sign #1",
+    "lobster#1": "sign #2",
+    "crab#1": "sign #3",
+    "lobster#2": "sign #4"
+  }
+}

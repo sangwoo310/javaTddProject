@@ -13,7 +13,7 @@ import java.util.concurrent.Executor;
 @Configuration
 @EnableAsync
 public class AsyncThreadConfiguration extends AsyncConfigurerSupport {
-//    @Bean
+    //    @Bean
     public Executor asyncThreadTaskExecutor() {
         log.info("pleas!!!!");
         ThreadPoolTaskExecutor executor = new ThreadPoolTaskExecutor();

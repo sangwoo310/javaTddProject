@@ -10,7 +10,6 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
-
 @SpringBootApplication
 public class TddApplication implements CommandLineRunner {
 
@@ -20,7 +19,7 @@ public class TddApplication implements CommandLineRunner {
     @Autowired
     ThreadController threadController;
 
-    public static void main(String[] args)  {
+    public static void main(String[] args) {
         SpringApplication.run(TddApplication.class, args);
     }
 
